@@ -1,0 +1,115 @@
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Solo.resources
+C:\Users\eewr7\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Solo.resources
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Solo_Display.resources
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Solo_Input.resources
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+E:\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Solo_Display.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C#\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Solo_Display.resources
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+E:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Solo_Display.resources
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+D:\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Solo_Display.resources
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\김상진\Desktop\승률예측 C# ver.2\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.3\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Display_.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Display_.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.4\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Display_.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\eewr7\OneDrive\바탕 화면\승률예측 C# ver.5\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Initialize.resources
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Display_.resources
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.Cache
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\pro\Desktop\승률예측 C# ver.6\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
