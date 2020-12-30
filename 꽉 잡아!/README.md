@@ -18,7 +18,7 @@
 ##### 하드웨어 구성
 <img src = "https://user-images.githubusercontent.com/68215551/103324923-a9d33480-4a8c-11eb-968e-1a610e4e99e0.png" width="60%">
 
-##### 소프트웨 구성
+##### 소프트웨어 구성
 <img src = "https://user-images.githubusercontent.com/68215551/103324925-a9d33480-4a8c-11eb-9b4c-3b805c458ec0.png" width="60%">
 
 
