@@ -35,7 +35,6 @@ namespace WindowsFormsApp6
         public int p1_score;
         public int p2_score;
 
-
         private void Solo_Display_Load(object sender, EventArgs e)
         {
             // Initialize에서 전달받은 선수 이름과 국적
