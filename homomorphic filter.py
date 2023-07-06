@@ -5,7 +5,7 @@ import numpy as np
 ### YUV color space로 converting한 뒤 Y에 대해 연산을 진행
 img = cv2.imread('file path')
 img_YUV = cv2.cvtColor(img, cv2.COLOR_BGR2YUV)    
-y = img_YUV[::0]    
+y = img_YUV[:, :, 0]    
  
 rows = y.shape[0]    
 cols = y.shape[1]
@@ -36,9 +36,9 @@ LPF_shift = np.fft.ifftshift(LPF.copy())
 HPF_shift = np.fft.ifftshift(HPF.copy())
  
 ### Log를 씌운 이미지를 FFT해서 LPF와 HPF를 곱해 LF성분과 HF성분을 나눔
-img_FFT = np.fft.fft2(imgLog.copy(), (M, N))
-img_LF = np.real(np.fft.ifft2(img_FFT.copy() * LPF_shift, (M, N)) # low frequency 성분
-img_HF = np.real(np.fft.ifft2(img_FFT.copy() * HPF_shift, (M, N)) # high frequency 성분
+img_FFT = np.fft.fft2(imgLog.copy(), (M, N))  # 연산시간 매우 크게 발생
+img_LF = np.real(np.fft.ifft2(img_FFT.copy() * LPF_shift, (M, N))) # low frequency 성분
+img_HF = np.real(np.fft.ifft2(img_FFT.copy() * HPF_shift, (M, N))) # high frequency 성분
  
 ### 각 LF, HF 성분에 scaling factor를 곱해주어 조명값과 반사값을 조절함
 gamma1 = 0.3
